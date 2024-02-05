@@ -1,9 +1,9 @@
-import { GetUsers } from "./basics/05-fetch/GetUsers"
+import { UserList } from "./Execs/37-38-user-list/UserList"
 
 const App = () => {
   return (
     <div>
-      <GetUsers />
+      <UserList />
     </div>
   )
 }
