@@ -1,11 +1,9 @@
-import { NameCounter } from "./Execs/21-22-name-counter/NameCounter"
-import { NameCounterClass } from "./Execs/21-22-name-counter/NameCounterClass"
+import { GetUsers } from "./basics/05-fetch/GetUsers"
 
 const App = () => {
   return (
     <div>
-      <NameCounter />
-      <NameCounterClass />
+      <GetUsers />
     </div>
   )
 }
