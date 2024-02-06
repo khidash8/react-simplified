@@ -1,9 +1,9 @@
-import { UserList } from "./Execs/37-38-user-list/UserList"
+import { Todo } from "./Execs/41-42-simple-todo/components/Todo"
 
 const App = () => {
   return (
     <div>
-      <UserList />
+      <Todo />
     </div>
   )
 }
